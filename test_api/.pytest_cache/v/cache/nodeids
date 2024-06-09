@@ -1,0 +1,6 @@
+[
+  "tests/schemas/test_product.py::test_schemas_retunr_raise",
+  "tests/schemas/test_product.py::test_schemas_retunr_success",
+  "tests/schemas/test_product.py::test_schemas_validated",
+  "tests/usecases/test_product.py::test_usecases_create_should_return_success"
+]
